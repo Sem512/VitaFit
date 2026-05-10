@@ -1,17 +1,13 @@
-# fitness_app
+A modern Flutter fitness and nutrition tracking app designed with a clean Apple-inspired UI and a matte black + emerald theme. The app helps users monitor workouts, track nutrition, hydration, calories, and daily fitness goals through an intuitive and responsive interface.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+Workout tracking
+Nutrition and calorie monitoring
+Water intake tracking
+Animated UI components
+Dark mode support
+Responsive modern design
+Smooth Flutter animations
+Built With
+Flutter
+Dart
